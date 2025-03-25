@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_diamond_ore",
+    "textures": {
+        "ore": "block/deepslate_diamond_ore",
+        "glow": "block/diamond_ore_glow"
+    }
+}

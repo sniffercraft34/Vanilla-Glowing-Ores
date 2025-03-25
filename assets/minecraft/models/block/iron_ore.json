@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_iron_ore",
+    "textures": {
+        "ore": "block/iron_ore",
+        "glow": "block/iron_ore_glow"
+    }
+}

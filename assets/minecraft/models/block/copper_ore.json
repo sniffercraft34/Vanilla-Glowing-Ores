@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_copper_ore",
+    "textures": {
+        "ore": "block/copper_ore",
+        "glow": "block/copper_ore_glow"
+    }
+}

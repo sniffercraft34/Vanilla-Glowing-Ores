@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_redstone_ore",
+    "textures": {
+        "ore": "block/deepslate_redstone_ore",
+        "glow": "block/redstone_ore_glow"
+    }
+}

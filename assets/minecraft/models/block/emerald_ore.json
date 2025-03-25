@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_emerald_ore",
+    "textures": {
+        "ore": "block/emerald_ore",
+        "glow": "block/emerald_ore_glow"
+    }
+}

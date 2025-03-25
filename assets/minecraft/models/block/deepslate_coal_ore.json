@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_coal_ore",
+    "textures": {
+        "ore": "block/deepslate_coal_ore",
+        "glow": "block/coal_ore_glow"
+    }
+}
